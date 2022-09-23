@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "397963555818",
+    "project_id": "darkmoviehub",
+    "storage_bucket": "darkmoviehub.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:397963555818:android:38f5bfb2c79dc9cab5b893",
+        "android_client_info": {
+          "package_name": "com.maxlab.darkmovies"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "397963555818-2sbibrka6ksnrmjv6ib563rljvb1ahtf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpeig28Bmw1jtKJQTQk5ARVqDDr05RkG0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "397963555818-2sbibrka6ksnrmjv6ib563rljvb1ahtf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

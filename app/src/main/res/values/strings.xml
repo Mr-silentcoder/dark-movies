@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Dark Movies</string>
+    <string name="home">Home</string>
+    <string name="radio">Movies</string>
+    <string name="category">Series</string>
+    <string name="about">Favorite</string>
+    <string name="movie_slide1">Malayalam</string>
+    <string name="movie_slide2">Tamil</string>
+    <string name="movie_slide3">Hindi</string>
+    <string name="movie_slide4">English</string>
+    <string name="movie_slide5">Telugu</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
